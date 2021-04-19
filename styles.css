@@ -1,17 +1,6 @@
 /* cmd+shift+7: Kommentar */
 
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: auto;
-  font-family: Verdana, Arial, sans-serif;
-  font-size: 112.5%;
-  line-height: 1.4;
-  color: var(--primary);
-  background-color: var(--bg-col);
-}
+@import './_base.css';
 
 header {
   display: grid;
