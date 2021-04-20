@@ -1,0 +1,8 @@
+header {
+  display: grid;
+  place-items: center;
+  grid-gap: 20px;
+  padding: 50px;
+  margin: auto;
+  background-color: var(--bg-col);
+}
