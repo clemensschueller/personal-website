@@ -1,0 +1,41 @@
+.find-me {
+  display: flex;
+  flex-direction: row;
+}
+
+.links {
+  background: var(--bg-col);
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  margin: 10px;
+  padding: 5px;
+  color: grey;
+  font-size: 12px;
+}
+
+.mypic {
+  width: 100%;
+  height: auto;
+}
+
+table,
+th,
+td {
+  font-size: 15px;
+  border: 1px black;
+}
+
+input,
+button,
+textarea {
+  font-size: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+address {
+  margin-top: 30px;
+}
